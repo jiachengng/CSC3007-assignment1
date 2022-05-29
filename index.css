@@ -1,0 +1,32 @@
+
+th {
+    height: 60px;
+    border: 1px solid black;
+    background: #282828;
+    font-family: OpenSans-Regular;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.2;
+
+}
+
+td {
+    border: 1px solid black;
+    background: #282828;
+    color: #fff;
+    font-family: OpenSans-Regular;
+    font-size: 18px;
+    height: 45px;
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+#maintable {
+    margin: auto;
+    width: 50%;
+    border-collapse: collapse;
+    padding: 10px;
+}
